@@ -1,1 +1,1 @@
-# apache + tomcat + MySQL の開発環境
+# apache + tomcat + MySQL の開発環境です
